@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|d:\\crmsalongrooming\\groomingsaloncrm\\groomingsaloncrm\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|solutionrelative:groomingsaloncrm\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|d:\\crmsalongrooming\\groomingsaloncrm\\groomingsaloncrm\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|solutionrelative:groomingsaloncrm\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|d:\\crmsalongrooming\\groomingsaloncrm\\groomingsaloncrm\\models\\registermanagerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|solutionrelative:groomingsaloncrm\\models\\registermanagerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|d:\\crmsalongrooming\\groomingsaloncrm\\groomingsaloncrm\\models\\registerclientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|solutionrelative:groomingsaloncrm\\models\\registerclientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|d:\\crmsalongrooming\\groomingsaloncrm\\groomingsaloncrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|solutionrelative:groomingsaloncrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|d:\\crmsalongrooming\\groomingsaloncrm\\groomingsaloncrm\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|solutionrelative:groomingsaloncrm\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|d:\\crmsalongrooming\\groomingsaloncrm\\groomingsaloncrm\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|solutionrelative:groomingsaloncrm\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|d:\\crmsalongrooming\\groomingsaloncrm\\groomingsaloncrm\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|solutionrelative:groomingsaloncrm\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|d:\\crmsalongrooming\\groomingsaloncrm\\groomingsaloncrm\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|solutionrelative:groomingsaloncrm\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|d:\\crmsalongrooming\\groomingsaloncrm\\groomingsaloncrm\\groomingsaloncrm.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|solutionrelative:groomingsaloncrm\\groomingsaloncrm.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|d:\\crmsalongrooming\\groomingsaloncrm\\groomingsaloncrm\\groomingsaloncrm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|solutionrelative:groomingsaloncrm\\groomingsaloncrm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|d:\\crmsalongrooming\\groomingsaloncrm\\groomingsaloncrm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|solutionrelative:groomingsaloncrm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|d:\\crmsalongrooming\\groomingsaloncrm\\groomingsaloncrm\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|solutionrelative:groomingsaloncrm\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|d:\\crmsalongrooming\\groomingsaloncrm\\groomingsaloncrm\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|solutionrelative:groomingsaloncrm\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|d:\\crmsalongrooming\\groomingsaloncrm\\groomingsaloncrm\\models\\groomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|solutionrelative:groomingsaloncrm\\models\\groomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|d:\\crmsalongrooming\\groomingsaloncrm\\groomingsaloncrm\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|solutionrelative:groomingsaloncrm\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|d:\\crmsalongrooming\\groomingsaloncrm\\groomingsaloncrm\\controllers\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|solutionrelative:groomingsaloncrm\\controllers\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|d:\\crmsalongrooming\\groomingsaloncrm\\groomingsaloncrm\\controllers\\groomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|solutionrelative:groomingsaloncrm\\controllers\\groomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|d:\\crmsalongrooming\\groomingsaloncrm\\groomingsaloncrm\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|solutionrelative:groomingsaloncrm\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|d:\\crmsalongrooming\\groomingsaloncrm\\groomingsaloncrm\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|solutionrelative:groomingsaloncrm\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|d:\\crmsalongrooming\\groomingsaloncrm\\groomingsaloncrm\\migrations\\20241228185607_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0391A1-2E80-45C9-9778-B6CDAC77A325}|GroomingSalonCRM\\GroomingSalonCRM.csproj|solutionrelative:groomingsaloncrm\\migrations\\20241228185607_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "GroomingSalonCRM\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "GroomingSalonCRM\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T00:47:42.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "GroomingSalonCRM\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "GroomingSalonCRM\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwHMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:53:33.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterClientViewModel.cs",
+              "DocumentMoniker": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Models\\RegisterClientViewModel.cs",
+              "RelativeDocumentMoniker": "GroomingSalonCRM\\Models\\RegisterClientViewModel.cs",
+              "ToolTip": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Models\\RegisterClientViewModel.cs",
+              "RelativeToolTip": "GroomingSalonCRM\\Models\\RegisterClientViewModel.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:00:13.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterManagerViewModel.cs",
+              "DocumentMoniker": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Models\\RegisterManagerViewModel.cs",
+              "RelativeDocumentMoniker": "GroomingSalonCRM\\Models\\RegisterManagerViewModel.cs",
+              "ToolTip": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Models\\RegisterManagerViewModel.cs",
+              "RelativeToolTip": "GroomingSalonCRM\\Models\\RegisterManagerViewModel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T19:36:58.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Program.cs",
+              "RelativeDocumentMoniker": "GroomingSalonCRM\\Program.cs",
+              "ToolTip": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Program.cs",
+              "RelativeToolTip": "GroomingSalonCRM\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:42:12.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "GroomingSalonCRM\\Models\\Manager.cs",
+              "ToolTip": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Models\\Manager.cs",
+              "RelativeToolTip": "GroomingSalonCRM\\Models\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:31:35.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "GroomingSalonCRM\\Models\\Client.cs",
+              "ToolTip": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Models\\Client.cs",
+              "RelativeToolTip": "GroomingSalonCRM\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:31:02.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GroomingSalonCRM\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GroomingSalonCRM\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-29T19:53:02.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GroomingSalonCRM\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GroomingSalonCRM\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:33:46.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GroomingSalonCRM.http",
+              "DocumentMoniker": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\GroomingSalonCRM.http",
+              "RelativeDocumentMoniker": "GroomingSalonCRM\\GroomingSalonCRM.http",
+              "ToolTip": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\GroomingSalonCRM.http",
+              "RelativeToolTip": "GroomingSalonCRM\\GroomingSalonCRM.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-28T19:00:08.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GroomingSalonCRM.csproj",
+              "DocumentMoniker": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\GroomingSalonCRM.csproj",
+              "RelativeDocumentMoniker": "GroomingSalonCRM\\GroomingSalonCRM.csproj",
+              "ToolTip": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\GroomingSalonCRM.csproj",
+              "RelativeToolTip": "GroomingSalonCRM\\GroomingSalonCRM.csproj",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswBQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T21:32:54.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\appsettings.json",
+              "RelativeDocumentMoniker": "GroomingSalonCRM\\appsettings.json",
+              "ToolTip": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\appsettings.json",
+              "RelativeToolTip": "GroomingSalonCRM\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T22:18:43.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241228185607_InitialCreate.cs",
+              "DocumentMoniker": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Migrations\\20241228185607_InitialCreate.cs",
+              "RelativeDocumentMoniker": "GroomingSalonCRM\\Migrations\\20241228185607_InitialCreate.cs",
+              "ToolTip": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Migrations\\20241228185607_InitialCreate.cs",
+              "RelativeToolTip": "GroomingSalonCRM\\Migrations\\20241228185607_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:56:08.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "GroomingSalonCRM\\Models\\Animal.cs",
+              "ToolTip": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Models\\Animal.cs",
+              "RelativeToolTip": "GroomingSalonCRM\\Models\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:27:49.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "GroomingSalonCRM\\Models\\Appointment.cs",
+              "ToolTip": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Models\\Appointment.cs",
+              "RelativeToolTip": "GroomingSalonCRM\\Models\\Appointment.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA5wA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:29:34.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Groomer.cs",
+              "DocumentMoniker": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Models\\Groomer.cs",
+              "RelativeDocumentMoniker": "GroomingSalonCRM\\Models\\Groomer.cs",
+              "ToolTip": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Models\\Groomer.cs",
+              "RelativeToolTip": "GroomingSalonCRM\\Models\\Groomer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T21:36:46.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "GroomingSalonCRM\\Models\\Service.cs",
+              "ToolTip": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Models\\Service.cs",
+              "RelativeToolTip": "GroomingSalonCRM\\Models\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T21:38:10.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AnimalsController.cs",
+              "DocumentMoniker": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Controllers\\AnimalsController.cs",
+              "RelativeDocumentMoniker": "GroomingSalonCRM\\Controllers\\AnimalsController.cs",
+              "ToolTip": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Controllers\\AnimalsController.cs",
+              "RelativeToolTip": "GroomingSalonCRM\\Controllers\\AnimalsController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA3wAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:35:30.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GroomersController.cs",
+              "DocumentMoniker": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Controllers\\GroomersController.cs",
+              "RelativeDocumentMoniker": "GroomingSalonCRM\\Controllers\\GroomersController.cs",
+              "ToolTip": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Controllers\\GroomersController.cs",
+              "RelativeToolTip": "GroomingSalonCRM\\Controllers\\GroomersController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:40:30.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "GroomingSalonCRM\\Controllers\\ClientsController.cs",
+              "ToolTip": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "GroomingSalonCRM\\Controllers\\ClientsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:37:56.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "GroomingSalonCRM\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "D:\\CRMSalonGrooming\\GroomingSalonCRM\\GroomingSalonCRM\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "GroomingSalonCRM\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:39:15.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

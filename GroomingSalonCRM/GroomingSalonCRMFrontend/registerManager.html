@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Вхід</title>
+  <link rel="stylesheet" type="text/css" href="css/custom-style.css">
+  <link rel="stylesheet" type="text/css" href="css/loaders.css"/>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="font-awesome/css/font-awesome.min.css">
+
+</head>
+<body>
+  
+    <nav class="navbar navbar-expand-md fixed-top top-nav">
+        <div class="container-fluid">
+              <a class="navbar-brand" href="index.html"><strong>Paws & Style</strong></a>
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"><img src="img/icons/menu.png"></span>
+              </button>
+    
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav m-auto text-sm-center text-md-center">
+                  <li class="nav-item">
+                    <a class="nav-link" href="#home">Головна <span class="sr-only">(current)</span></a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#services">Послуги</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#about">Про нас</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#price">Ціни</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#contact">Контакти</a>
+                  </li>
+                </ul>
+              </div>	
+              <ul class="navbar-nav ml-auto search-box">
+                <li class="nav-item">
+                  <a class="nav-link" href="login.html">
+                    <i class="fa fa-user text-white"></i></a>
+                  </a>
+                </li>
+              </ul>
+        </div>
+    </nav>
+    
+    <main class="login-page">
+        <h2>Реєстрація менеджера</h2>
+
+        <form id="registerForm">
+            <div class="form-group">
+                <label for="Surname">Прізвище</label>
+                <input type="text" id="Surname" name="Surname" class="form-control" required />
+            </div>
+            <div class="form-group">
+                <label for="Name">Ім'я</label>
+                <input type="text" id="Name" name="Name" class="form-control" required />
+            </div>
+            <div class="form-group">
+                <label for="Middlename">По-батькові</label>
+                <input type="text" id="Middlename" name="Middlename" class="form-control" required />
+            </div>
+            <div class="form-group">
+                <label for="UserName">Ім'я користувача</label>
+                <input type="text" id="UserName" name="UserName" class="form-control" required />
+            </div>
+            <div class="form-group">
+                <label for="Email">Електронна пошта</label>
+                <input type="email" id="Email" name="Email" class="form-control" required />
+            </div>
+            <div class="form-group">
+                <label for="Password">Пароль</label>
+                <input type="password" id="Password" name="Password" class="form-control" required />
+            </div>
+            <div class="form-group">
+                <label for="Role">Роль</label>
+                <input type="text" id="Role" name="Role" class="form-control" required />
+            </div>
+            <div class="form-group">
+              <label for="PhoneNumber">Телефон</label>
+              <input type="text" id="PhoneNumber" name="PhoneNumber" class="form-control" required />
+          </div>
+            <button type="button" id="submitBtn" class="btn btn-primary">Реєструвати</button>
+        </form>
+    </main>
+  <script  src="https://code.jquery.com/jquery-3.2.1.min.js" ></script>
+<script src="js/bootstrap.min.js" ></script>
+<script async deffer type="text/javascript" src="https://maps.google.com/maps/api/js?key= AIzaSyB52BfJHBtqiqYBn_D4ZUqujiWxAOiRyTc&callback=initMap"></script>
+<script src="js/gmap-custom.js" ></script>
+<script src="js/core.js"></script>
+<script src="js/register.js"></script>
+
+</body>
+</html>
