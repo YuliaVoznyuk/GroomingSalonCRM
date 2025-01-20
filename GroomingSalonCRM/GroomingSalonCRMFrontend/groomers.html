@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Вхід</title>
+  <link rel="stylesheet" type="text/css" href="css/custom-style.css">
+  <link rel="stylesheet" type="text/css" href="css/loaders.css"/>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/additionalStyle.css">
+
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="font-awesome/css/font-awesome.min.css">
+
+</head>
+<body class="bg-dark">
+  
+    <nav class="navbar navbar-expand-md fixed-top top-nav">
+        <div class="container-fluid">
+              <a class="navbar-brand" href="index.html"><strong>Paws & Style</strong></a>
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"><img src="img/icons/menu.png"></span>
+              </button>
+    
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav m-auto text-sm-center text-md-center">
+                  <li class="nav-item">
+                    <a class="nav-link" href="#home">Головна <span class="sr-only">(current)</span></a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#services">Послуги</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#about">Про нас</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#price">Ціни</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#contact">Контакти</a>
+                  </li>
+                </ul>
+              </div>	
+              <ul class="navbar-nav ml-auto search-box">
+                <li class="nav-item">
+                  <a class="nav-link" href="login.html">
+                    <i class="fa fa-user text-white"></i></a>
+                  </a>
+                </li>
+              </ul>
+        </div>
+    </nav>
+    
+    <main class="groomerContainer">
+        <h2>Грумери</h2>
+        <button id="addGroomerBtn" class="btn">Додати грумера</button>
+        <table id="groomerTable" class="table">
+            <thead>
+                <tr>
+                    <th>Ім'я</th>
+                    <th>Прізвище</th>
+                    <th>По-батькові</th>
+                    <th>Спеціальність</th>
+                    <th>Дії</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </main>
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close" id="closeModal">&times;</span>
+            <h2 id="modalTitle">Додати грумера</h2>
+            <form id="groomerForm">
+              <input type="hidden" id="groomerId" name="groomerId">
+                <label>Ім'я:</label>
+                <input type="text" id="nmae" required>
+                <label>Прізвище:</label>
+                <input type="text" id="surname" required>
+                <label>По-батькові:</label>
+                <input type="text" id="middlename" required>
+                <label>Спеціальність:</label>
+                <input type="text" id="specialty" required>
+                <button type="submit" class="btn">Зберегти</button>
+            </form>
+        </div>
+    </div>
+  <script  src="https://code.jquery.com/jquery-3.2.1.min.js" ></script>
+<script src="js/bootstrap.min.js" ></script>
+<script async deffer type="text/javascript" src="https://maps.google.com/maps/api/js?key= AIzaSyB52BfJHBtqiqYBn_D4ZUqujiWxAOiRyTc&callback=initMap"></script>
+<script src="js/gmap-custom.js" ></script>
+<script src="js/core.js"></script>
+<script src="js/loadGroomers.js" ></script>
+
+</body>
+</html>

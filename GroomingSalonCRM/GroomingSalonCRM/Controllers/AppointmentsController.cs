@@ -33,5 +33,23 @@ namespace GroomingSalonCRM.Controllers
 			await _context.SaveChangesAsync();
 			return CreatedAtAction(nameof(GetAppointments), new { id = appointment.Id }, appointment);
 		}
-	}
+        [HttpGet("AvailableTimes")]
+        public IActionResult AvailableTimes(DateTime date, int groomerId)
+        {
+            date = date.Date;
+
+            var allTimes = Enumerable.Range(9, 10).Select(h => new TimeSpan(h, 0, 0)).ToList();
+
+            var bookedTimes = _context.Appointments
+                                        .Where(a => a.Date.Date == date.Date && a.GroomerId == groomerId)
+                                        .Select(a => a.Date.TimeOfDay)
+                                        .ToList();
+
+            var availableTimes = allTimes.Except(bookedTimes)
+                                         .Select(ts => ts.ToString(@"hh\:mm"))
+                                         .ToList();
+
+            return Ok(availableTimes);
+        }
+    }
 }

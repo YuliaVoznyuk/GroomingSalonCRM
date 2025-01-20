@@ -400,13 +400,11 @@ namespace GroomingSalonCRM.Migrations
 
             modelBuilder.Entity("GroomingSalonCRM.Models.Animal", b =>
                 {
-                    b.HasOne("GroomingSalonCRM.Models.Client", "Owner")
+                    b.HasOne("GroomingSalonCRM.Models.Client", null)
                         .WithMany("Animals")
                         .HasForeignKey("ClientId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-
-                    b.Navigation("Owner");
                 });
 
             modelBuilder.Entity("GroomingSalonCRM.Models.Appointment", b =>

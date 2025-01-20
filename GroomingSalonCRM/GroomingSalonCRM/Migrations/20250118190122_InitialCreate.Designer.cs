@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace GroomingSalonCRM.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20241228185607_InitialCreate")]
+    [Migration("20250118190122_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -403,13 +403,11 @@ namespace GroomingSalonCRM.Migrations
 
             modelBuilder.Entity("GroomingSalonCRM.Models.Animal", b =>
                 {
-                    b.HasOne("GroomingSalonCRM.Models.Client", "Owner")
+                    b.HasOne("GroomingSalonCRM.Models.Client", null)
                         .WithMany("Animals")
                         .HasForeignKey("ClientId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-
-                    b.Navigation("Owner");
                 });
 
             modelBuilder.Entity("GroomingSalonCRM.Models.Appointment", b =>

@@ -17,7 +17,6 @@ namespace GroomingSalonCRM.Controllers
 			_context = context;
 		}
 
-		// Отримати список клієнтів з їхніми тваринами
 		[HttpGet]
 		public async Task<ActionResult<IEnumerable<Client>>> GetClients()
 		{
@@ -29,7 +28,6 @@ namespace GroomingSalonCRM.Controllers
 
 		
 
-		// Оновити інформацію про клієнта
 		[HttpPut("{id}")]
 		public async Task<IActionResult> UpdateClient(int id, Client client)
 		{
@@ -40,13 +38,11 @@ namespace GroomingSalonCRM.Controllers
 			if (existingClient == null)
 				return NotFound();
 
-			// Оновлення властивостей клієнта
 			existingClient.Surname = client.Surname;
 			existingClient.Name = client.Name;
 			existingClient.Middlename = client.Middlename;
 			existingClient.PhoneNumber = client.PhoneNumber;
 
-			// Оновлюємо запис в контексті
 			_context.Entry(existingClient).State = EntityState.Modified;
 
 			try
@@ -61,24 +57,20 @@ namespace GroomingSalonCRM.Controllers
 					throw;
 			}
 
-			return NoContent(); // Повертаємо статус 204 (No Content) після успішного оновлення
+			return NoContent(); 
 		}
 
 
-		// Видалити клієнта
 		[HttpDelete("{id}")]
 		public async Task<IActionResult> DeleteClient(int id)
 		{
-			// Пошук клієнта в таблиці Clients за ідентифікатором
 			var client = await _context.Clients.FirstOrDefaultAsync(c => c.Id == id);
 			if (client == null)
 				return NotFound();
 
-			// Видалення клієнта
 			_context.Clients.Remove(client);
 			await _context.SaveChangesAsync();
 
-			// Повернення статусу 204 (No Content)
 			return NoContent();
 		}
 
@@ -86,7 +78,7 @@ namespace GroomingSalonCRM.Controllers
 		public async Task<ActionResult<Client>> GetClientById(int id)
 		{
 			var client = await _context.Clients
-				.Include(c => c.Animals) // Якщо потрібно включити тварин клієнта
+				.Include(c => c.Animals) 
 				.FirstOrDefaultAsync(c => c.Id == id);
 
 			if (client == null)

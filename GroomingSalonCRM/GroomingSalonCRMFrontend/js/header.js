@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     const headerPlaceholder = document.getElementById('header-placeholder');
     
     try {
-      const response = await fetch('header.html'); // Завантаження хедера
+      const response = await fetch('header.html'); 
       if (response.ok) {
         const headerHtml = await response.text();
         headerPlaceholder.innerHTML = headerHtml;

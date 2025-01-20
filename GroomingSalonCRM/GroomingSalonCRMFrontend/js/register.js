@@ -37,8 +37,9 @@
             alert('Виникла помилка: ' + err.message);
         }
     });
+   
     function handleRegistrationResponse(response) {
       localStorage.setItem('userRole', response.Role);
-
+    
       window.location.href = 'index.html';
-  }
+    }

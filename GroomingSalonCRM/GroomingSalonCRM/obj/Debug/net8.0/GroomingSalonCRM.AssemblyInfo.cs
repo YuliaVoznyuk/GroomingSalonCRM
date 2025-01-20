@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GroomingSalonCRM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4a6376741e7f4d0d92a1a6adb232d63e39d4128")]
 [assembly: System.Reflection.AssemblyProductAttribute("GroomingSalonCRM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GroomingSalonCRM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
